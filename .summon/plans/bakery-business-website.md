@@ -1,5 +1,5 @@
 ---
-status: pending
+status: building
 title: Bakery business website with services and contact form
 ---
 

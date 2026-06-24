@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #fdf8f1;
+  --color-cream-deep: #f6ead7;
+  --color-cocoa: #3b2415;
+  --color-cocoa-soft: #5a3a26;
+  --color-caramel: #b8763a;
+  --color-caramel-deep: #8f5524;
+  --color-rose: #d98a8a;
+  --color-rose-soft: #f2d7d2;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-cocoa);
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+}
